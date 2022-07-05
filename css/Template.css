@@ -1,28 +1,21 @@
-main {
-            padding-top: 3rem;
-            padding-bottom: 2rem;
-        }
 
-        .extra-margins {
-            margin-top: 1rem;
-            margin-bottom: 2.5rem;
-        }
+head {
+    background-color: black;
+    color: white;
+}
 
-        .jumbotron {
-            text-align: center;
-        }
+body {
+      background-color: black;
+      color: white;
+}
 
-        .navbar {
-            background-color: #3b295a;
-        }
+.navbar-brand {
+    background: #003375;
+    color: rgb(0, 0, 0);
+}
 
-        footer.page-footer {
-            background-color: #3b295a;
-            margin-top: 2rem;
-        }
-        .navbar .btn-group .dropdown-menu a:hover {
-            color: #000 !important;
-        }
-        .navbar .btn-group .dropdown-menu a:active {
-            color: #fff !important;
-        }
+.navbar-collapse {
+    background: #003375;
+    color: rgb(0, 0, 0);
+}
+
