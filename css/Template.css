@@ -10,11 +10,16 @@ body {
 }
 
 .navbar-brand {
-    background: #003375;
+    background: #816cad;
     color: rgb(255, 255, 255);
 }
 
 .navbar-collapse {
-    background: #003375;
+    background: #816cad;
     color: rgb(255, 255, 255);
+}
+
+img { 
+    position: relative;
+    top: 2px; 
 }
